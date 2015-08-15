@@ -1,0 +1,30 @@
+{
+  "name": "openports",
+  "version": "0.0.1",
+  "description": "Find multiple open ports",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielstjules/openports.git"
+  },
+  "keywords": [
+    "open",
+    "free",
+    "ports"
+  ],
+  "author": "Daniel St. Jules <danielst.jules@gmail.com> (http://danielstjules.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danielstjules/openports/issues"
+  },
+  "homepage": "https://github.com/danielstjules/openports#readme",
+  "dependencies": {
+    "bluebird": "^2.9.34"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.5"
+  }
+}
