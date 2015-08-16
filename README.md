@@ -2,6 +2,8 @@
 
 Find multiple open ports.
 
+[![Build Status](https://travis-ci.org/danielstjules/openports.svg?branch=master)](https://travis-ci.org/danielstjules/openports)
+
 ## Installation
 
 `npm install --save openports`
